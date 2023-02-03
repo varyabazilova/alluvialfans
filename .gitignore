@@ -25,4 +25,4 @@ folder_to_ignore/11_zonalstats_new
 *.prj
 *.qmd
 *.shx
-
+*.nc
